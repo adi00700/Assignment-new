@@ -1,16 +1,5 @@
 # Assignment-new
 
-## Project Description
-
-This project is designed to [briefly describe the purpose of your project]. It aims to [explain the main objectives and functionalities].
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 To install and set up this project locally, follow these steps:
